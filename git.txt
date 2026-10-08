@@ -1,3 +1,6 @@
 i am learning git for devops 
 i am student of devops engineer
 it is very difficult 
+git status
+git commit -m "update git.txt"
+git add
